@@ -47,5 +47,9 @@ array.uniq()
 end
 
 def using_flatten
+  array.flatten()
   
+end
+
+def 
   
